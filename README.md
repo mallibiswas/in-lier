@@ -1,2 +1,2 @@
 # in-lier
-stuff around data cleanup
+code for outlier analysis and best methodology selection
